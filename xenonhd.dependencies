@@ -1,19 +1,19 @@
 [
   {
-    "remote": "th",
-    "repository": "android_device_lge_g3-common",
+    "remote": "gh",
+    "repository": "syeous/android_device_lge_g3-common",
     "target_path": "device/lge/g3-common",
     "revision": "mm"
   },
   {
-    "remote": "th",
-    "repository": "android_kernel_lge_g3",
+    "remote": "gh",
+    "repository": "syeous/android_kernel_lge_g3",
     "target_path": "kernel/lge/g3",
     "revision": "mm"
   },
   {
-    "remote": "th",
-    "repository": "vendor_lge",
+    "remote": "gh",
+    "repository": "syeous/vendor_lge",
     "target_path": "vendor/lge",
     "revision": "mm"
   },
